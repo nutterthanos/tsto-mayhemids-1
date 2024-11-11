@@ -1,6 +1,6 @@
 # Define file path and increment
 main_script_path = "/home/runner/work/tsto-mayhemids-1/tsto-mayhemids-1/grab_mayhemids.py"
-increment = 5000000
+increment = 4000000
 max_end_id = 2000000000  # define the upper limit for END_ID
 
 # Read the main script file
